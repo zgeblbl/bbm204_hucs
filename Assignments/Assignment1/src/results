@@ -1,0 +1,120 @@
+Insertion sort on random data with 500 elements: 0
+Insertion sort on random data with 1000 elements: 0
+Insertion sort on random data with 2000 elements: 0
+Insertion sort on random data with 4000 elements: 1
+Insertion sort on random data with 8000 elements: 4
+Insertion sort on random data with 16000 elements: 18
+Insertion sort on random data with 32000 elements: 76
+Insertion sort on random data with 64000 elements: 291
+Insertion sort on random data with 128000 elements: 1183
+Insertion sort on random data with 250000 elements: 4756
+Merge sort on random data with 500 elements: 0
+Merge sort on random data with 1000 elements: 0
+Merge sort on random data with 2000 elements: 0
+Merge sort on random data with 4000 elements: 0
+Merge sort on random data with 8000 elements: 1
+Merge sort on random data with 16000 elements: 1
+Merge sort on random data with 32000 elements: 5
+Merge sort on random data with 64000 elements: 13
+Merge sort on random data with 128000 elements: 10
+Merge sort on random data with 250000 elements: 22
+Counting sort on random data with 500 elements: 293
+Counting sort on random data with 1000 elements: 120
+Counting sort on random data with 2000 elements: 121
+Counting sort on random data with 4000 elements: 165
+Counting sort on random data with 8000 elements: 144
+Counting sort on random data with 16000 elements: 108
+Counting sort on random data with 32000 elements: 138
+Counting sort on random data with 64000 elements: 115
+Counting sort on random data with 128000 elements: 113
+Counting sort on random data with 250000 elements: 113
+Insertion sort on sorted data with 500 elements: 0
+Insertion sort on sorted data with 1000 elements: 0
+Insertion sort on sorted data with 2000 elements: 0
+Insertion sort on sorted data with 4000 elements: 0
+Insertion sort on sorted data with 8000 elements: 0
+Insertion sort on sorted data with 16000 elements: 0
+Insertion sort on sorted data with 32000 elements: 0
+Insertion sort on sorted data with 64000 elements: 0
+Insertion sort on sorted data with 128000 elements: 0
+Insertion sort on sorted data with 250000 elements: 0
+Merge sort on sorted data with 500 elements: 0
+Merge sort on sorted data with 1000 elements: 0
+Merge sort on sorted data with 2000 elements: 0
+Merge sort on sorted data with 4000 elements: 0
+Merge sort on sorted data with 8000 elements: 0
+Merge sort on sorted data with 16000 elements: 0
+Merge sort on sorted data with 32000 elements: 1
+Merge sort on sorted data with 64000 elements: 1
+Merge sort on sorted data with 128000 elements: 4
+Merge sort on sorted data with 250000 elements: 7
+Counting sort on sorted data with 500 elements: 103
+Counting sort on sorted data with 1000 elements: 100
+Counting sort on sorted data with 2000 elements: 119
+Counting sort on sorted data with 4000 elements: 117
+Counting sort on sorted data with 8000 elements: 101
+Counting sort on sorted data with 16000 elements: 97
+Counting sort on sorted data with 32000 elements: 122
+Counting sort on sorted data with 64000 elements: 105
+Counting sort on sorted data with 128000 elements: 105
+Counting sort on sorted data with 250000 elements: 127
+Insertion sort on reversely sorted data with 500 elements: 0
+Insertion sort on reversely sorted data with 1000 elements: 0
+Insertion sort on reversely sorted data with 2000 elements: 0
+Insertion sort on reversely sorted data with 4000 elements: 2
+Insertion sort on reversely sorted data with 8000 elements: 8
+Insertion sort on reversely sorted data with 16000 elements: 36
+Insertion sort on reversely sorted data with 32000 elements: 148
+Insertion sort on reversely sorted data with 64000 elements: 605
+Insertion sort on reversely sorted data with 128000 elements: 2463
+Insertion sort on reversely sorted data with 250000 elements: 9657
+Merge sort on reversely sorted data with 500 elements: 0
+Merge sort on reversely sorted data with 1000 elements: 0
+Merge sort on reversely sorted data with 2000 elements: 0
+Merge sort on reversely sorted data with 4000 elements: 0
+Merge sort on reversely sorted data with 8000 elements: 0
+Merge sort on reversely sorted data with 16000 elements: 0
+Merge sort on reversely sorted data with 32000 elements: 0
+Merge sort on reversely sorted data with 64000 elements: 1
+Merge sort on reversely sorted data with 128000 elements: 3
+Merge sort on reversely sorted data with 250000 elements: 6
+Counting sort on reversely sorted data with 500 elements: 123
+Counting sort on reversely sorted data with 1000 elements: 129
+Counting sort on reversely sorted data with 2000 elements: 115
+Counting sort on reversely sorted data with 4000 elements: 173
+Counting sort on reversely sorted data with 8000 elements: 145
+Counting sort on reversely sorted data with 16000 elements: 137
+Counting sort on reversely sorted data with 32000 elements: 165
+Counting sort on reversely sorted data with 64000 elements: 128
+Counting sort on reversely sorted data with 128000 elements: 124
+Counting sort on reversely sorted data with 250000 elements: 116
+Linear searched random time for 500 : 3659
+Linear searched random time for 1000 : 1693
+Linear searched random time for 2000 : 197
+Linear searched random time for 4000 : 340
+Linear searched random time for 8000 : 642
+Linear searched random time for 16000 : 1221
+Linear searched random time for 32000 : 2750
+Linear searched random time for 64000 : 5119
+Linear searched random time for 128000 : 10089
+Linear searched random time for 250000 : 19912
+Linear searched sorted time for 245 : 72
+Linear searched sorted time for 489 : 94
+Linear searched sorted time for 977 : 132
+Linear searched sorted time for 1953 : 201
+Linear searched sorted time for 3905 : 367
+Linear searched sorted time for 7809 : 633
+Linear searched sorted time for 15617 : 1212
+Linear searched sorted time for 31233 : 2426
+Linear searched sorted time for 62465 : 4736
+Linear searched sorted time for 118929 : 9335
+Binary searched time for 245 : 250
+Binary searched time for 489 : 152
+Binary searched time for 977 : 185
+Binary searched time for 1953 : 208
+Binary searched time for 3905 : 140
+Binary searched time for 7809 : 107
+Binary searched time for 15617 : 110
+Binary searched time for 31233 : 120
+Binary searched time for 62465 : 128
+Binary searched time for 118929 : 138
